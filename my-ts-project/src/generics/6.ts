@@ -15,4 +15,4 @@ type Form = {
 
 type Params = Omit<Form, 'errors'>;
 
-export{};
+export { };
